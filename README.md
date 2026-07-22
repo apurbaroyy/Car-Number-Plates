@@ -1,20 +1,13 @@
+
+# 🎥 Project Demo Video
+
+▶️ Watch on YouTube
+
+[https://youtu.be/PASTE_YOUR_VIDEO_LINK_HERE](https://youtu.be/M9qAn75jGWU)
+
 # 🚗 Automatic Number Plate Detection and Vehicle Information System
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
-
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv">
-
-<img src="https://img.shields.io/badge/EasyOCR-OCR-red?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql">
-
-<img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-yellow?style=for-the-badge">
-
-</p>
-
----
 
 # 📖 Project Overview
 
@@ -174,14 +167,6 @@ country VARCHAR(100)
 ## Vehicle Not Found
 
 ![Not Found](Result%20not.png)
-
----
-
-# 🎥 Project Demo Video
-
-▶️ Watch on YouTube
-
-https://youtu.be/PASTE_YOUR_VIDEO_LINK_HERE
 
 ---
 
