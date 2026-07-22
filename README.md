@@ -1,4 +1,4 @@
-https://youtu.be/ZEcQSbVQ5X8
+[https://youtu.be/ZEcQSbVQ5X8](https://youtu.be/M9qAn75jGWU)
 # 🚗 Automatic Number Plate Detection and Vehicle Information System
 
 This project is developed using **Python, OpenCV, EasyOCR, Haar Cascade and MySQL**.
@@ -9,7 +9,7 @@ This project is developed using **Python, OpenCV, EasyOCR, Haar Cascade and MySQ
 
 ▶️ Watch Demo
 
-https://youtu.be/xxxxxxxxxxx
+[https://youtu.be/xxxxxxxxxxx](https://youtu.be/M9qAn75jGWU)
 
 ---
 
@@ -44,6 +44,14 @@ https://youtu.be/xxxxxxxxxxx
 ### Detection
 
 ![Detection](Result%20final1.png)
+
+### Vehicle Not Found
+![Vehicle not Found]<img width="1280" height="720" alt="Result not" src="https://github.com/user-attachments/assets/3f28ce89-1a65-42ef-80ae-4c52832734d9" />
+
+
+
+<img width="1280" height="720" alt="Result not" src="https://github.com/user-attachments/assets/cbed3835-d40f-4624-a6cd-6d2765dd0e73" />
+
 
 ---
 
