@@ -3,7 +3,7 @@
 
 ▶️ Watch on YouTube
 
-[https://youtu.be/PASTE_YOUR_VIDEO_LINK_HERE](https://youtu.be/M9qAn75jGWU)
+(https://youtu.be/M9qAn75jGWU)
 
 # 🚗 Automatic Number Plate Detection and Vehicle Information System
 
